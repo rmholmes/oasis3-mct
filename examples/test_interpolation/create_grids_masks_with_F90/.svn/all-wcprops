@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90
+END
+create_aux_files.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/create_aux_files.F90
+END
+routine_hdlerr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/routine_hdlerr.F90
+END
+script_create_grids_masks_f90.sh
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/script_create_grids_masks_f90.sh
+END
+read_dimgrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/read_dimgrid.F90
+END
+read_grid_mask.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/read_grid_mask.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/Makefile
+END
+write_grids_masks.F90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_F90/write_grids_masks.F90
+END

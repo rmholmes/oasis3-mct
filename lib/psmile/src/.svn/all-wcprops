@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2123/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src
+END
+mod_oasis_mpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1609/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_mpi.F90
+END
+mod_oasis_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_grid.F90
+END
+mod_oasis_getput_interface.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_getput_interface.F90
+END
+mod_oasis_var.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_var.F90
+END
+mod_prism.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_prism.F90
+END
+mod_oasis_auxiliary_routines.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_auxiliary_routines.F90
+END
+mod_oasis_advance.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_advance.F90
+END
+mod_oasis_parameters.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_parameters.F90
+END
+mod_oasis_part.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1732/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_part.F90
+END
+mod_oasis_string.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_string.F90
+END
+mod_oasis_io.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1605/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_io.F90
+END
+mod_oasis_kinds.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_kinds.F90
+END
+mod_oasis_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_data.F90
+END
+mod_oasis_coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1523/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_coupler.F90
+END
+mod_oasis_map.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1507/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_map.F90
+END
+mod_oasis_mem.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_mem.F90
+END
+mod_oasis_sys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1542/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_sys.F90
+END
+mod_oasis_method.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1639/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_method.F90
+END
+mod_oasis.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis.F90
+END
+GPTLget_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/GPTLget_memusage.c
+END
+mod_oasis_timer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2123/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_timer.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/Makefile
+END
+mod_oasis_namcouple.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1637/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_namcouple.F90
+END
+mod_oasis_ioshr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1484/branches/OASIS3-MCT_3.0_branch/oasis3-mct/lib/psmile/src/mod_oasis_ioshr.F90
+END

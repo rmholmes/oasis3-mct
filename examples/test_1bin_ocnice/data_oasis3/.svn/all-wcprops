@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3
+END
+grid_bt42.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/grid_bt42.nc
+END
+grid_lmd2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/grid_lmd2.nc
+END
+namcouple
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/namcouple
+END
+grids.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/grids.nc
+END
+ocnrst.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/ocnrst.nc
+END
+icerst.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/icerst.nc
+END
+rename_var.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/rename_var.sh
+END
+areas.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/areas.nc
+END
+grid_lmdz.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/grid_lmdz.nc
+END
+grid_torc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/grid_torc.nc
+END
+cf_name_table.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/cf_name_table.txt
+END
+masks.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/data_oasis3/masks.nc
+END

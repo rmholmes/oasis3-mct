@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL/data
+END
+grid_model1.nc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL/data/grid_model1.nc
+END
+grid_model2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL/data/grid_model2.nc
+END

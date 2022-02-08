@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1956/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice
+END
+test_1bin_ocnice.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1956/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/test_1bin_ocnice.pdf
+END
+decomp_def.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/decomp_def.F90
+END
+routine_hdlerr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/routine_hdlerr.F90
+END
+flddiag.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/flddiag.F90
+END
+read_dimgrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/read_dimgrid.F90
+END
+test_1bin_ocnice.doc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1956/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/test_1bin_ocnice.doc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/Makefile
+END
+ocnice.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/ocnice.F90
+END
+read_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/read_grid.F90
+END
+run_1bin_ocnice
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1956/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_1bin_ocnice/run_1bin_ocnice
+END

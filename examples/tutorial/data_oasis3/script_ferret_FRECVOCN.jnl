@@ -1,0 +1,5 @@
+use FRECVOCN_model1_03.nc
+shade FRECVOCN[L=1,d=1]
+
+
+

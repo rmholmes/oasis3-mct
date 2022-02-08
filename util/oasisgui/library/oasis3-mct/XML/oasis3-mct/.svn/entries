@@ -1,0 +1,141 @@
+10
+
+dir
+2561
+https://oasis3mct.cerfacs.fr/svn/branches/OASIS3-MCT_3.0_branch/oasis3-mct/util/oasisgui/library/oasis3-mct/XML/oasis3-mct
+https://oasis3mct.cerfacs.fr/svn
+
+
+
+2015-02-25T13:23:53.934549Z
+1318
+coquart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4cb25568-f743-43ea-a667-76286970a4fb
+
+groups
+dir
+
+icon_small.gif
+file
+
+
+
+
+2019-06-07T15:43:55.564293Z
+e2817116abc068768e75bef7f7f72fb0
+2014-09-18T16:09:15.706798Z
+1087
+coquart
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3028
+
+interpolation
+dir
+
+write
+dir
+
+timetransfo
+dir
+
+mapping
+dir
+
+summary
+dir
+
+folderParameters.xml
+file
+
+
+
+
+2019-06-07T15:43:55.572293Z
+f6e4b28a2ce81bd657d764f4cbe66985
+2014-09-18T16:09:15.706798Z
+1087
+coquart
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79
+
+param
+dir
+
+fielddef
+dir
+
+printruns
+dir
+
+grids
+dir
+
+checktransfo
+dir
+
+cplrststatus
+dir
+
+seqlag
+dir
+
+conservtransof
+dir
+
+blastransfo
+dir
+

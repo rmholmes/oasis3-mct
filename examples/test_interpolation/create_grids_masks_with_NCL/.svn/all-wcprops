@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL
+END
+script_create_grids_masks_ncl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL/script_create_grids_masks_ncl.sh
+END
+create_aux_files.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/create_grids_masks_with_NCL/create_aux_files.ncl
+END

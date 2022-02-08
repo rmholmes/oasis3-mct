@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2217/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation
+END
+model2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2036/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/model2.F90
+END
+function_ana.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/function_ana.F90
+END
+decomp_def.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1950/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/decomp_def.F90
+END
+routine_hdlerr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/routine_hdlerr.F90
+END
+header_precision
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/header_precision
+END
+header_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/header_Makefile
+END
+write_all_fields.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/write_all_fields.F90
+END
+read_all_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/read_all_data.F90
+END
+test_interpolation.doc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1957/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/test_interpolation.doc
+END
+run_test_interpolation
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2217/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/run_test_interpolation
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/Makefile
+END
+test_interpolation.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1957/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/test_interpolation.pdf
+END
+model1.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1950/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/test_interpolation/model1.F90
+END

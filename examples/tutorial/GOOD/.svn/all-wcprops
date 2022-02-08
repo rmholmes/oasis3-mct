@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD
+END
+FSENDOCN_model1_01.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD/FSENDOCN_model1_01.nc
+END
+FSENDOCN_model1_02.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD/FSENDOCN_model1_02.nc
+END
+FSENDATM_model2_03.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD/FSENDATM_model2_03.nc
+END
+FRECVOCN_model1_03.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD/FRECVOCN_model1_03.nc
+END
+FRECVATM_model2_01.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1805/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/GOOD/FRECVATM_model2_01.nc
+END

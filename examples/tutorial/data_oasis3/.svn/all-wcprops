@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3
+END
+script_ferret_FSENDOCN_to_ATM.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/script_ferret_FSENDOCN_to_ATM.jnl
+END
+script_ferret_FRECVOCN.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/script_ferret_FRECVOCN.jnl
+END
+script_ferret_FRECVATM.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/script_ferret_FRECVATM.jnl
+END
+grid_model1.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/grid_model1.nc
+END
+grid_model2.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/grid_model2.nc
+END
+namcouple_TP
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/namcouple_TP
+END
+fdocn.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/fdocn.nc
+END
+fdatm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/fdatm.nc
+END
+my_remapping_file_bilinear.nc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/my_remapping_file_bilinear.nc
+END
+script_ferret_FSENDOCN_to_File.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/script_ferret_FSENDOCN_to_File.jnl
+END
+script_ferret_FSENDATM.jnl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/data_oasis3/script_ferret_FSENDATM.jnl
+END

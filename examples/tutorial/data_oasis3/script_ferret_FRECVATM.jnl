@@ -1,0 +1,4 @@
+use FRECVATM_model2_01.nc
+shade FRECVATM[L=1,d=1]
+
+

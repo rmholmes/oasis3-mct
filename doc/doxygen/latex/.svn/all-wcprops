@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex
+END
+mod__oasis__method_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__method_8_f90.tex
+END
+interfacemod__oasis__grid_1_1oasis__write__corner.tex
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__grid_1_1oasis__write__corner.tex
+END
+mod__oasis__timer_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__timer_8_f90.tex
+END
+mod__oasis__namcouple_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__namcouple_8_f90.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__sum.tex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__sum.tex
+END
+classmod__oasis__string.tex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__string.tex
+END
+interfacemod__oasis__getput__interface_1_1oasis__put.tex
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__getput__interface_1_1oasis__put.tex
+END
+structmod__oasis__map_1_1prism__mapper__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__map_1_1prism__mapper__type.tex
+END
+classmod__oasis__map.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__map.tex
+END
+classmod__oasis__mem.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__mem.tex
+END
+classmod__oasis__timer.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__timer.tex
+END
+mod__oasis__parameters_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__parameters_8_f90.tex
+END
+mod__oasis__kinds_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__kinds_8_f90.tex
+END
+interfacemod__oasis__grid_1_1oasis__write__grid.tex
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__grid_1_1oasis__write__grid.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__scatterv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__scatterv.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/Makefile
+END
+mod__oasis__sys_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__sys_8_f90.tex
+END
+mod__oasis_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis_8_f90.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__gatherv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__gatherv.tex
+END
+mod__oasis__ioshr_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__ioshr_8_f90.tex
+END
+classmod__oasis__parameters.tex
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__parameters.tex
+END
+mod__oasis__mpi_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__mpi_8_f90.tex
+END
+mod__oasis__getput__interface_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__getput__interface_8_f90.tex
+END
+classmod__oasis__kinds.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__kinds.tex
+END
+classmod__oasis__coupler.tex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__coupler.tex
+END
+doxygen.sty
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/doxygen.sty
+END
+classmod__oasis__sys.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__sys.tex
+END
+interfacemod__oasis__getput__interface_1_1oasis__get.tex
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__getput__interface_1_1oasis__get.tex
+END
+classmod__oasis.tex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis.tex
+END
+classmod__oasis__ioshr.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__ioshr.tex
+END
+mod__oasis__string_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__string_8_f90.tex
+END
+mod__oasis__io_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__io_8_f90.tex
+END
+refman.tex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/refman.tex
+END
+structmod__oasis__coupler_1_1prism__coupler__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__coupler_1_1prism__coupler__type.tex
+END
+mod__oasis__map_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__map_8_f90.tex
+END
+annotated.tex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/annotated.tex
+END
+interfacemod__oasis__grid_1_1oasis__write__angle.tex
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__grid_1_1oasis__write__angle.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__recv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__recv.tex
+END
+classmod__oasis__advance.tex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__advance.tex
+END
+structmod__oasis__coupler_1_1prism__router__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__coupler_1_1prism__router__type.tex
+END
+structmod__oasis__timer_1_1timer__details.tex
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__timer_1_1timer__details.tex
+END
+classmod__oasis__part.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__part.tex
+END
+classmod__oasis__io.tex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__io.tex
+END
+mod__oasis__var_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__var_8_f90.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__gathscatvinit.tex
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__gathscatvinit.tex
+END
+dir_b9037cdc46664b6618a9b73cbe5d7d46.tex
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/dir_b9037cdc46664b6618a9b73cbe5d7d46.tex
+END
+mod__prism_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__prism_8_f90.tex
+END
+mod__oasis__auxiliary__routines_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__auxiliary__routines_8_f90.tex
+END
+dir_0640afee9c21414844097db3d288356a.tex
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/dir_0640afee9c21414844097db3d288356a.tex
+END
+interfacemod__oasis__grid_1_1oasis__write__area.tex
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__grid_1_1oasis__write__area.tex
+END
+classmod__oasis__method.tex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__method.tex
+END
+dir_e788f700b632cf5db823664f4281c502.tex
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/dir_e788f700b632cf5db823664f4281c502.tex
+END
+classmod__oasis__namcouple.tex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__namcouple.tex
+END
+index.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/index.tex
+END
+mod__oasis__data_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__data_8_f90.tex
+END
+mod__oasis__coupler_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__coupler_8_f90.tex
+END
+classmod__oasis__var.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__var.tex
+END
+structmod__oasis__var_1_1prism__var__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__var_1_1prism__var__type.tex
+END
+classmod__prism.tex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__prism.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__bcast.tex
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__bcast.tex
+END
+classmod__oasis__auxiliary__routines.tex
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__auxiliary__routines.tex
+END
+mod__oasis__grid_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__grid_8_f90.tex
+END
+dir_4821d77b84ef9525404a2d8fc2461907.tex
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/dir_4821d77b84ef9525404a2d8fc2461907.tex
+END
+classmod__oasis__data.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__data.tex
+END
+mod__oasis__advance_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__advance_8_f90.tex
+END
+files.tex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/files.tex
+END
+structmod__oasis__grid_1_1prism__grid__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__grid_1_1prism__grid__type.tex
+END
+mod__oasis__part_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__part_8_f90.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__min.tex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__min.tex
+END
+classmod__oasis__mpi.tex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__mpi.tex
+END
+classmod__oasis__grid.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__grid.tex
+END
+structmod__oasis__part_1_1prism__part__type.tex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/structmod__oasis__part_1_1prism__part__type.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__max.tex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__max.tex
+END
+classmod__oasis__getput__interface.tex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/classmod__oasis__getput__interface.tex
+END
+interfacemod__oasis__mpi_1_1oasis__mpi__send.tex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/interfacemod__oasis__mpi_1_1oasis__mpi__send.tex
+END
+oasis__os_8h.tex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/oasis__os_8h.tex
+END
+mod__oasis__mem_8_f90.tex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1482/branches/OASIS3-MCT_3.0_branch/oasis3-mct/doc/doxygen/latex/mod__oasis__mem_8_f90.tex
+END

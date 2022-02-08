@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1967/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial
+END
+model2.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1925/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model2.F90
+END
+model1.F90_TP
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1925/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model1.F90_TP
+END
+routine_hdlerr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/routine_hdlerr.F90
+END
+model2.F90_TP
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1925/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model2.F90_TP
+END
+decomp_def.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/decomp_def.F90
+END
+run_tutorial
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1925/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/run_tutorial
+END
+read_dimgrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/read_dimgrid.F90
+END
+tutorial.doc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1965/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/tutorial.doc
+END
+model1.F90_monoonly
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model1.F90_monoonly
+END
+model2.F90_monoonly
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model2.F90_monoonly
+END
+function_sent.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/function_sent.F90
+END
+tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1966/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/tutorial.pdf
+END
+decomp_def.F90_monoonly
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/decomp_def.F90_monoonly
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/Makefile
+END
+read_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1483/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/read_grid.F90
+END
+model1.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1925/branches/OASIS3-MCT_3.0_branch/oasis3-mct/examples/tutorial/model1.F90
+END
