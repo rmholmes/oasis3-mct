@@ -16,8 +16,8 @@ COUPLE          = $(BUILDROOT)/../..
 ARCHDIR         = $(COUPLE)/build
 #
 # NETCDF library
-NETCDF_INCLUDE  = /apps/netcdf/4.7.1/include/Intel
-NETCDF_LIBRARY  = -L/apps/netcdf/4.7.1/lib/Intel -lnetcdff -L/apps/netcdf/4.7.1/ -lnetcdf
+NETCDF_INCLUDE  = /apps/netcdf/4.8.0p/include
+NETCDF_LIBRARY  = -L/apps/netcdf/4.8.0p/lib -lnetcdff -L/apps/netcdf/4.8.0p/lib -lnetcdf
 #
 # Compiling and other commands
 MAKE        = gmake
